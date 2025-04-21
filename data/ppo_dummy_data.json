@@ -1,0 +1,502 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "response": "The capital of France is Paris.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "response": "France's capital is Brussels.",
+    "reward": -1.0
+  },
+  {
+    "prompt": "Explain gravity simply.",
+    "response": "Gravity is the force that pulls things toward the Earth.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "Explain gravity simply.",
+    "response": "Gravity is when you feel light like a feather in the ocean.",
+    "reward": -0.5
+  },
+  {
+    "prompt": "What's 2 + 2?",
+    "response": "2 + 2 equals 4.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What's 2 + 2?",
+    "response": "2 + 2 equals 22.",
+    "reward": -1.0
+  },
+  {
+    "prompt": "What causes rain?",
+    "response": "Rain is caused by water vapor condensing into droplets in clouds.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What causes rain?",
+    "response": "Rain comes when the clouds get sad and cry.",
+    "reward": -0.5
+  },
+  {
+    "prompt": "Tell me about the moon.",
+    "response": "The moon is Earth's natural satellite and affects tides.",
+    "reward": 0.9
+  },
+  {
+    "prompt": "Tell me about the moon.",
+    "response": "The moon is a shiny balloon in the sky.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "How do plants get energy?",
+    "response": "Plants get energy through photosynthesis, converting sunlight into chemical energy.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How do plants get energy?",
+    "response": "Plants eat tiny insects that live in the soil.",
+    "reward": -0.8
+  },
+  {
+    "prompt": "What is DNA?",
+    "response": "DNA is a molecule that carries genetic instructions for development and functioning of all living organisms.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is DNA?",
+    "response": "DNA is a type of vitamin that helps you build strong bones.",
+    "reward": -0.9
+  },
+  {
+    "prompt": "Why is the sky blue?",
+    "response": "The sky appears blue because molecules in the air scatter blue light from the sun more than they scatter red light.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "Why is the sky blue?",
+    "response": "The sky is blue because it reflects the color of the ocean.",
+    "reward": -0.6
+  },
+  {
+    "prompt": "What is photosynthesis?",
+    "response": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with carbon dioxide and water.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is photosynthesis?",
+    "response": "Photosynthesis is when plants take pictures of themselves to grow better.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "How do airplanes fly?",
+    "response": "Airplanes fly by creating lift with their wings, which are shaped to make air move faster over the top than underneath.",
+    "reward": 0.9
+  },
+  {
+    "prompt": "How do airplanes fly?",
+    "response": "Airplanes fly because they're lighter than air, like balloons.",
+    "reward": -0.8
+  },
+  {
+    "prompt": "What is the theory of relativity?",
+    "response": "The theory of relativity, developed by Albert Einstein, describes how time, space, and gravity are related and how they affect each other.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is the theory of relativity?",
+    "response": "The theory of relativity says that everything is relative to your mood when you wake up.",
+    "reward": -0.9
+  },
+  {
+    "prompt": "How does a refrigerator work?",
+    "response": "A refrigerator works by removing heat from inside it and transferring that heat to the outside air using a special cooling system.",
+    "reward": 0.9
+  },
+  {
+    "prompt": "How does a refrigerator work?",
+    "response": "A refrigerator works by creating a mini winter inside the box.",
+    "reward": -0.5
+  },
+  {
+    "prompt": "What causes seasons?",
+    "response": "Seasons are caused by Earth's tilted axis as it orbits the sun, which changes how directly sunlight hits different parts of Earth throughout the year.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What causes seasons?",
+    "response": "Seasons happen because the Earth gets closer to the sun in summer and farther away in winter.",
+    "reward": -0.6
+  },
+  {
+    "prompt": "How do vaccines work?",
+    "response": "Vaccines work by introducing a harmless piece of a germ or weakened version of it, which trains your immune system to recognize and fight the real disease if you're exposed later.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How do vaccines work?",
+    "response": "Vaccines inject chemicals that permanently alter your DNA to make you immune to diseases.",
+    "reward": -1.0
+  },
+  {
+    "prompt": "What's the difference between weather and climate?",
+    "response": "Weather refers to short-term atmospheric conditions like temperature and precipitation, while climate describes the average weather patterns in a region over a longer period of time.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What's the difference between weather and climate?",
+    "response": "Weather is what you feel today, and climate is what the government tells you to believe.",
+    "reward": -0.8
+  },
+  {
+    "prompt": "How does a computer store data?",
+    "response": "Computers store data as binary code (0s and 1s) in various storage devices like hard drives, SSDs, or RAM.",
+    "reward": 0.9
+  },
+  {
+    "prompt": "How does a computer store data?",
+    "response": "Computers have tiny librarians inside who write down everything you do.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "What is the water cycle?",
+    "response": "The water cycle is the continuous movement of water on, above, and below Earth's surface through processes like evaporation, condensation, and precipitation.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is the water cycle?",
+    "response": "The water cycle is when water gets tired and needs to take a break in the clouds.",
+    "reward": -0.6
+  },
+  {
+    "prompt": "What is an atom?",
+    "response": "An atom is the basic unit of matter, consisting of a nucleus containing protons and neutrons, surrounded by electrons.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is an atom?",
+    "response": "Atoms are tiny bugs that live inside rocks and make them hard.",
+    "reward": -0.9
+  },
+  {
+    "prompt": "How do earthquakes happen?",
+    "response": "Earthquakes happen when tectonic plates in Earth's crust suddenly slip past one another, releasing stored energy that creates seismic waves.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How do earthquakes happen?",
+    "response": "Earthquakes happen when giants stomping around beneath the surface get angry.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "What is photosynthesis?",
+    "response": "Photosynthesis is the process where green plants use sunlight, water, and carbon dioxide to create oxygen and energy in the form of sugar.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is photosynthesis?",
+    "response": "Photosynthesis is when plants take photographs of the sun to make food.",
+    "reward": -0.8
+  },
+  {
+    "prompt": "How does the internet work?",
+    "response": "The internet works through a global network of interconnected computers that communicate using standardized protocols to exchange data.",
+    "reward": 0.9
+  },
+  {
+    "prompt": "How does the internet work?",
+    "response": "The internet works because tiny elves run through cables carrying your messages from computer to computer.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "What is the difference between a virus and bacteria?",
+    "response": "Viruses are much smaller than bacteria, cannot reproduce on their own, and require host cells to replicate, while bacteria are living cells that can reproduce independently.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is the difference between a virus and bacteria?",
+    "response": "Viruses are computer problems, and bacteria are just dirty things that need cleaning.",
+    "reward": -0.9
+  },
+  {
+    "prompt": "What is the periodic table?",
+    "response": "The periodic table is a systematic arrangement of chemical elements organized by their atomic number, electron configuration, and recurring chemical properties.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is the periodic table?",
+    "response": "The periodic table is a furniture item that scientists use to organize their lunch schedules.",
+    "reward": -0.8
+  },
+  {
+    "prompt": "How do we see colors?",
+    "response": "We see colors when light of different wavelengths enters our eyes and is detected by specialized cells called cones, which send signals to our brain.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How do we see colors?",
+    "response": "Colors are tiny particles that fly from objects into our eyes where they get stuck.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "What is density?",
+    "response": "Density is a physical property of matter that describes how much mass is contained in a given volume.",
+    "reward": 0.9
+  },
+  {
+    "prompt": "What is density?",
+    "response": "Density is how smart or stupid something is.",
+    "reward": -0.8
+  },
+  {
+    "prompt": "How does a lightbulb work?",
+    "response": "A lightbulb works when electrical current passes through a filament or gas, causing it to heat up and emit light.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How does a lightbulb work?",
+    "response": "Lightbulbs work by trapping sunlight during the day and slowly releasing it at night.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "What is inertia?",
+    "response": "Inertia is the tendency of an object to resist changes in its state of motion unless acted upon by an external force.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is inertia?",
+    "response": "Inertia is the laziness disease that makes people not want to get off the couch.",
+    "reward": -0.6
+  },
+  {
+    "prompt": "What is the Big Bang theory?",
+    "response": "The Big Bang theory is the scientific explanation for how the universe began, proposing it expanded from an extremely hot and dense point about 13.8 billion years ago.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is the Big Bang theory?",
+    "response": "The Big Bang theory is a TV show about nerdy scientists who live next door to a pretty blonde.",
+    "reward": -0.4
+  },
+  {
+    "prompt": "How do magnets work?",
+    "response": "Magnets work because of the alignment of electrons in certain materials, creating magnetic fields that can attract or repel other magnetic materials.",
+    "reward": 0.9
+  },
+  {
+    "prompt": "How do magnets work?",
+    "response": "Magnets work because they contain special sticky glue that only sticks to metal.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "What is evolution?",
+    "response": "Evolution is the process by which species change over time through genetic variations and natural selection, leading to adaptations that help them survive in their environment.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is evolution?",
+    "response": "Evolution is when animals decide they want to become different animals and change themselves.",
+    "reward": -0.8
+  },
+  {
+    "prompt": "Why do we dream?",
+    "response": "Scientists believe dreams may help process emotions, consolidate memories, and aid in problem-solving, though the exact purpose is still being researched.",
+    "reward": 0.8
+  },
+  {
+    "prompt": "Why do we dream?",
+    "response": "Dreams are messages from parallel universes trying to communicate with us.",
+    "reward": -0.5
+  },
+  {
+    "prompt": "What is sound?",
+    "response": "Sound is a form of energy that travels as waves through matter like air, water, or solids, caused by vibrations and detected by our ears.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is sound?",
+    "response": "Sound is tiny invisible butterflies that fly into your ears and make them tickle.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "How does a battery work?",
+    "response": "A battery works by converting stored chemical energy into electrical energy through reactions that create a flow of electrons from one terminal to the other.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How does a battery work?",
+    "response": "Batteries work by trapping tiny lightning bolts inside a metal case.",
+    "reward": -0.6
+  },
+  {
+    "prompt": "What is the ozone layer?",
+    "response": "The ozone layer is a region of Earth's stratosphere that contains a high concentration of ozone gas, which absorbs most of the sun's harmful ultraviolet radiation.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is the ozone layer?",
+    "response": "The ozone layer is a special force field created by NASA to protect us from alien invasions.",
+    "reward": -0.8
+  },
+  {
+    "prompt": "How do volcanoes form?",
+    "response": "Volcanoes form when magma from the Earth's mantle rises to the surface through weaknesses in the crust, creating a vent through which lava, ash, and gases can erupt.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How do volcanoes form?",
+    "response": "Volcanoes form when the Earth gets too hot and needs to sweat out the excess heat.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "What is metabolism?",
+    "response": "Metabolism is the set of chemical reactions in organisms that maintain life, including converting food into energy and building or breaking down molecules.",
+    "reward": 0.9
+  },
+  {
+    "prompt": "What is metabolism?",
+    "response": "Metabolism is a magical spell that some people are born with that lets them eat whatever they want without gaining weight.",
+    "reward": -0.6
+  },
+  {
+    "prompt": "How do vaccines work?",
+    "response": "Vaccines work by introducing a weakened or inactive part of a pathogen to trigger an immune response, teaching the body to recognize and fight the actual disease if exposed later.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How do vaccines work?",
+    "response": "Vaccines work by implanting tiny microchips that program your body to avoid certain diseases.",
+    "reward": -1.0
+  },
+  {
+    "prompt": "What causes thunder?",
+    "response": "Thunder is caused by the rapid expansion of air heated by lightning, creating sound waves that we hear as a rumbling or cracking sound.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What causes thunder?",
+    "response": "Thunder happens when clouds bump into each other and get angry.",
+    "reward": -0.6
+  },
+  {
+    "prompt": "How does a touchscreen work?",
+    "response": "Touchscreens work by detecting changes in electrical fields or light when a finger touches the surface, allowing the device to determine the location of the touch.",
+    "reward": 0.9
+  },
+  {
+    "prompt": "How does a touchscreen work?",
+    "response": "Touchscreens have millions of tiny invisible buttons underneath the glass that you press when you touch it.",
+    "reward": -0.5
+  },
+  {
+    "prompt": "What is DNA?",
+    "response": "DNA (deoxyribonucleic acid) is a molecule that contains the genetic instructions used in the development and functioning of all known living organisms.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is DNA?",
+    "response": "DNA stands for 'Do Not Ask' and it's the secret code that parents use to make their children look like them.",
+    "reward": -0.8
+  },
+  {
+    "prompt": "How do we taste food?",
+    "response": "We taste food when chemicals in it interact with taste receptor cells on our taste buds, sending signals to our brain that are interpreted as different flavors.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How do we taste food?",
+    "response": "We taste food because our tongues have tiny mouths on them that eat the food again after we've chewed it.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "What is global warming?",
+    "response": "Global warming is the long-term increase in Earth's average surface temperature due to human activities, primarily the emission of greenhouse gases that trap heat in the atmosphere.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is global warming?",
+    "response": "Global warming is a hoax invented by umbrella manufacturers to sell more umbrellas during rainy seasons.",
+    "reward": -0.9
+  },
+  {
+    "prompt": "How does a camera work?",
+    "response": "A camera works by focusing light through a lens onto a light-sensitive surface (film or digital sensor), which captures and records the image.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How does a camera work?",
+    "response": "Cameras work by having a tiny artist inside who quickly paints what you're looking at.",
+    "reward": -0.6
+  },
+  {
+    "prompt": "What are stars made of?",
+    "response": "Stars are primarily made of hydrogen and helium gases that undergo nuclear fusion under extreme heat and pressure, releasing energy in the form of light and heat.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What are stars made of?",
+    "response": "Stars are made of glitter that got stuck to the ceiling of the sky at night.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "How does the heart work?",
+    "response": "The heart works as a muscular pump that contracts to push blood through the circulatory system, delivering oxygen and nutrients to cells and removing waste products.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How does the heart work?",
+    "response": "The heart works because of love. The more you love, the faster it beats to make you happy.",
+    "reward": -0.5
+  },
+  {
+    "prompt": "What are black holes?",
+    "response": "Black holes are regions of spacetime where gravity is so strong that nothing, not even light, can escape once it passes the event horizon.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What are black holes?",
+    "response": "Black holes are cosmic vacuum cleaners that NASA uses to clean up space junk.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "What is electricity?",
+    "response": "Electricity is the flow of electrons through a conductive material, creating a form of energy that can be used to power devices and systems.",
+    "reward": 0.9
+  },
+  {
+    "prompt": "What is electricity?",
+    "response": "Electricity is lightning that we've tamed and trapped in wires to make our toys work.",
+    "reward": -0.6
+  },
+  {
+    "prompt": "How do plants reproduce?",
+    "response": "Plants reproduce through various methods including producing seeds after pollination, vegetative reproduction from plant parts, or releasing spores.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How do plants reproduce?",
+    "response": "Plants reproduce by sending text messages to each other when they're feeling lonely.",
+    "reward": -0.7
+  },
+  {
+    "prompt": "What is the immune system?",
+    "response": "The immune system is a complex network of cells, tissues, and organs that defends the body against harmful pathogens and disease-causing microorganisms.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "What is the immune system?",
+    "response": "The immune system is a tiny army of superheroes in your blood that fight bad guys with laser guns.",
+    "reward": -0.5
+  },
+  {
+    "prompt": "How do we hear sounds?",
+    "response": "We hear sounds when sound waves enter our ears and cause the eardrum to vibrate, sending signals through the middle and inner ear to the brain where they're interpreted as sound.",
+    "reward": 1.0
+  },
+  {
+    "prompt": "How do we hear sounds?",
+    "response": "We hear sounds because our ears have little people inside who repeat what they hear from outside.",
+    "reward": -0.8
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "prompt": "Explain quantum entanglement to a 5-year-old.",
+    "responses": [
+      "It's like two magic coins that always show the same side no matter how far apart they are.",
+      "It's when particles talk to each other even if they're very far away.",
+      "Quantum entanglement is a complex phenomenon involving non-local correlations."
+    ],
+    "preference_distribution": [0.5, 0.4, 0.1]
+  },
+  {
+    "prompt": "What's a creative name for a bakery that specializes in donuts?",
+    "responses": [
+      "Hole Lotta Love",
+      "Donut Worry, Be Happy",
+      "The Round Table Bakery"
+    ],
+    "preference_distribution": [0.4, 0.5, 0.1]
+  },
+  {
+    "prompt": "Summarize the plot of 'The Matrix' in one sentence.",
+    "responses": [
+      "A man discovers his world is a simulation and learns to control it.",
+      "A hacker fights computer programs in a dystopian virtual reality.",
+      "Neo takes a red pill and goes to a rave party underground."
+    ],
+    "preference_distribution": [0.5, 0.4, 0.1]
+  },
+  {
+    "prompt": "Write a haiku about autumn.",
+    "responses": [
+      "Leaves fall silently / crisp air whispers of goodbye / golden memories",
+      "Fall is nice and cool / Trees get naked, leaves go brown / Squirrels hoard their food",
+      "Autumn comes again / It is very orange now / Pumpkins everywhere"
+    ],
+    "preference_distribution": [0.6, 0.25, 0.15]
+  },
+  {
+    "prompt": "What is the capital of France?",
+    "responses": [
+      "Paris.",
+      "The capital of France is Paris.",
+      "France's capital is Rome."
+    ],
+    "preference_distribution": [0.45, 0.5, 0.05]
+  }
+]

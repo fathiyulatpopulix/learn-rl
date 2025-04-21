@@ -1,0 +1,467 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "chosen": "The capital of France is Paris.",
+    "rejected": "Banana is the capital of trees."
+  },
+  {
+    "prompt": "Explain gravity like I'm five.",
+    "chosen": "Gravity is what makes things fall to the ground.",
+    "rejected": "Gravity is like invisible lasers pulling socks."
+  },
+  {
+    "prompt": "How do I bake a chocolate cake?",
+    "chosen": "You mix flour, cocoa, eggs, and sugar, then bake it in the oven.",
+    "rejected": "Just freeze some cheese and add chocolate shampoo."
+  },
+  {
+    "prompt": "What's 2 + 2?",
+    "chosen": "2 + 2 equals 4.",
+    "rejected": "2 + 2 equals potato."
+  },
+  {
+    "prompt": "What causes rain?",
+    "chosen": "Rain happens when clouds get heavy and water falls down.",
+    "rejected": "Rain is made when the sky is crying because of onions."
+  },
+  {
+    "prompt": "How do I tie my shoes?",
+    "chosen": "Make a loop, wrap another lace around, and pull it through.",
+    "rejected": "Use glue to keep your shoes on forever."
+  },
+  {
+    "prompt": "What does a cat sound like?",
+    "chosen": "A cat usually says 'meow'.",
+    "rejected": "Cats scream 'abracadabra' at night."
+  },
+  {
+    "prompt": "Tell me a fun fact about space.",
+    "chosen": "A day on Venus is longer than a year on Venus.",
+    "rejected": "Space smells like melted cheese and disco balls."
+  },
+  {
+    "prompt": "How do I make a paper airplane?",
+    "chosen": "Fold the paper in half, then make wings by folding corners down.",
+    "rejected": "Throw a spoon at the window — that's a plane."
+  },
+  {
+    "prompt": "What should I eat for breakfast?",
+    "chosen": "You can eat eggs, toast, and fruit for a healthy breakfast.",
+    "rejected": "Breakfast is best when you eat ice cubes and ketchup."
+  },
+  {
+    "prompt": "Why do we sleep?",
+    "chosen": "We sleep to let our bodies and brains rest and recover.",
+    "rejected": "We sleep because the moon casts sleepy beams."
+  },
+  {
+    "prompt": "Why is the sky blue?",
+    "chosen": "The sky looks blue because of how sunlight scatters in the atmosphere.",
+    "rejected": "It's blue because the clouds paint it every morning."
+  },
+  {
+    "prompt": "How do plants grow?",
+    "chosen": "Plants grow by absorbing water, sunlight, and nutrients from the soil.",
+    "rejected": "Plants grow when fairies sprinkle dust on them."
+  },
+  {
+    "prompt": "What is a rainbow?",
+    "chosen": "A rainbow forms when sunlight passes through raindrops and bends.",
+    "rejected": "Rainbows are unicorn highways in the sky."
+  },
+  {
+    "prompt": "What is recycling?",
+    "chosen": "Recycling is reusing materials like paper, plastic, and metal.",
+    "rejected": "Recycling is when you throw trash into a magic hat."
+  },
+  {
+    "prompt": "What is a computer?",
+    "chosen": "A computer is a machine that processes data and runs programs.",
+    "rejected": "A computer is a magic typewriter from the future."
+  },
+  {
+    "prompt": "How do fish breathe?",
+    "chosen": "Fish breathe by using gills to extract oxygen from water.",
+    "rejected": "Fish use invisible air pipes like submarines."
+  },
+  {
+    "prompt": "What's a volcano?",
+    "chosen": "A volcano is a mountain that erupts with lava from inside the Earth.",
+    "rejected": "It's a hot potato that lives underground."
+  },
+  {
+    "prompt": "How do airplanes fly?",
+    "chosen": "Airplanes fly by using wings that create lift as air moves over them.",
+    "rejected": "They flap their wings like birds."
+  },
+  {
+    "prompt": "What is photosynthesis?",
+    "chosen": "Photosynthesis is how plants make food from sunlight.",
+    "rejected": "Photosynthesis is when plants eat pizza."
+  },
+  {
+    "prompt": "What is the capital of Japan?",
+    "chosen": "The capital of Japan is Tokyo.",
+    "rejected": "The capital of Japan is Mount Fuji."
+  },
+  {
+    "prompt": "How do birds fly?",
+    "chosen": "Birds fly by flapping their wings to create lift and propulsion.",
+    "rejected": "Birds are actually tiny helicopters in disguise."
+  },
+  {
+    "prompt": "What is the largest animal?",
+    "chosen": "The blue whale is the largest animal on Earth.",
+    "rejected": "The largest animal is the mega-hamster from Jupiter."
+  },
+  {
+    "prompt": "How does a refrigerator work?",
+    "chosen": "A refrigerator works by removing heat from inside using a special cooling gas.",
+    "rejected": "Tiny snowmen inside blow cold air on your food."
+  },
+  {
+    "prompt": "What is electricity?",
+    "chosen": "Electricity is the flow of electrical power or charge.",
+    "rejected": "Electricity is lightning that we've trained to run through wires."
+  },
+  {
+    "prompt": "What's inside a pencil?",
+    "chosen": "Most pencils contain graphite mixed with clay, not lead.",
+    "rejected": "Pencils are filled with the dreams of baby dragons."
+  },
+  {
+    "prompt": "Why do leaves change color in fall?",
+    "chosen": "Leaves change color when chlorophyll breaks down as days get shorter.",
+    "rejected": "Leaves change color because trees get bored with green."
+  },
+  {
+    "prompt": "How does a telephone work?",
+    "chosen": "Telephones convert sound into electrical signals that travel to another phone.",
+    "rejected": "Telephones work by shrinking your voice and sending it through tubes."
+  },
+  {
+    "prompt": "What is the moon made of?",
+    "chosen": "The moon is made of rock, similar to Earth's crust.",
+    "rejected": "The moon is made of glowing cheese that never melts."
+  },
+  {
+    "prompt": "How do we see colors?",
+    "chosen": "We see colors when light reflects off objects and enters our eyes.",
+    "rejected": "Colors are tiny invisible fairies that dance on objects."
+  },
+  {
+    "prompt": "What is a dinosaur?",
+    "chosen": "Dinosaurs were large reptiles that lived millions of years ago.",
+    "rejected": "Dinosaurs are just big chickens with attitude problems."
+  },
+  {
+    "prompt": "How does a car engine work?",
+    "chosen": "A car engine works by burning fuel to create pressure that moves pistons.",
+    "rejected": "Car engines work by feeding hamsters energy drinks to run on wheels."
+  },
+  {
+    "prompt": "Why does ice float?",
+    "chosen": "Ice floats because it's less dense than liquid water.",
+    "rejected": "Ice floats because it's afraid of the bottom of the container."
+  },
+  {
+    "prompt": "How does a light bulb work?",
+    "chosen": "A light bulb works when electricity heats a wire filament until it glows.",
+    "rejected": "Light bulbs trap sunshine during manufacturing and release it later."
+  },
+  {
+    "prompt": "What are clouds made of?",
+    "chosen": "Clouds are made of tiny water droplets or ice crystals floating in the air.",
+    "rejected": "Clouds are cotton candy that birds haven't eaten yet."
+  },
+  {
+    "prompt": "How do bees make honey?",
+    "chosen": "Bees make honey by collecting flower nectar and processing it in their hives.",
+    "rejected": "Bees make honey by chewing bubblegum and spitting it into jars."
+  },
+  {
+    "prompt": "What is a shadow?",
+    "chosen": "A shadow forms when an object blocks light from passing through.",
+    "rejected": "Shadows are your evil twin trying to escape from the mirror world."
+  },
+  {
+    "prompt": "Why do we have seasons?",
+    "chosen": "We have seasons because Earth's tilted axis causes different amounts of sunlight throughout the year.",
+    "rejected": "Seasons happen when Mother Nature changes her mood ring."
+  },
+  {
+    "prompt": "How do magnets work?",
+    "chosen": "Magnets work because of special forces between certain materials like iron.",
+    "rejected": "Magnets work because they're made from bits of the North Pole."
+  },
+  {
+    "prompt": "What causes earthquakes?",
+    "chosen": "Earthquakes happen when tectonic plates suddenly slip past each other.",
+    "rejected": "Earthquakes happen when underground moles have dance parties."
+  },
+  {
+    "prompt": "Why do we have eyebrows?",
+    "chosen": "Eyebrows help keep sweat and rain from getting in our eyes.",
+    "rejected": "Eyebrows are tiny caterpillars that protect our faces."
+  },
+  {
+    "prompt": "What is the internet?",
+    "chosen": "The internet is a global network of connected computers that share information.",
+    "rejected": "The internet is a giant spider web where information gets stuck."
+  },
+  {
+    "prompt": "How do vaccines work?",
+    "chosen": "Vaccines teach your immune system to recognize and fight specific germs.",
+    "rejected": "Vaccines put tiny superhero capes on your blood cells."
+  },
+  {
+    "prompt": "Why does popcorn pop?",
+    "chosen": "Popcorn pops when water inside the kernel turns to steam and bursts the shell.",
+    "rejected": "Popcorn pops because tiny corn elves want to escape their houses."
+  },
+  {
+    "prompt": "How do boats float?",
+    "chosen": "Boats float because they displace water equal to their weight.",
+    "rejected": "Boats float because they're afraid of touching the bottom of the ocean."
+  },
+  {
+    "prompt": "What makes a rainbow?",
+    "chosen": "Rainbows form when sunlight passes through water droplets in the air.",
+    "rejected": "Rainbows are made when leprechauns paint the sky after rainstorms."
+  },
+  {
+    "prompt": "Why is the ocean salty?",
+    "chosen": "The ocean is salty because rivers carry minerals from land into the sea.",
+    "rejected": "The ocean is salty because fish cry a lot."
+  },
+  {
+    "prompt": "How do submarines dive?",
+    "chosen": "Submarines dive by letting water into special tanks to make them heavier.",
+    "rejected": "Submarines dive when the captain yells at the water to let them in."
+  },
+  {
+    "prompt": "What are stars?",
+    "chosen": "Stars are giant balls of hot gas, mostly hydrogen and helium.",
+    "rejected": "Stars are fireflies that got stuck in the night sky."
+  },
+  {
+    "prompt": "How do worms help plants?",
+    "chosen": "Worms help plants by making tunnels in soil and breaking down dead material.",
+    "rejected": "Worms help plants by telling them jokes to make them grow faster."
+  },
+  {
+    "prompt": "Why is blood red?",
+    "chosen": "Blood is red because it contains iron in a protein called hemoglobin.",
+    "rejected": "Blood is red because it's filled with tiny red crayons."
+  },
+  {
+    "prompt": "How do batteries work?",
+    "chosen": "Batteries work by converting chemical energy into electrical energy.",
+    "rejected": "Batteries work by trapping lightning bugs inside metal containers."
+  },
+  {
+    "prompt": "What is snow?",
+    "chosen": "Snow is frozen water that forms into ice crystals in clouds.",
+    "rejected": "Snow is when clouds get too cold and dandruff falls from the sky."
+  },
+  {
+    "prompt": "Why do we get hiccups?",
+    "chosen": "Hiccups happen when your diaphragm muscle spasms involuntarily.",
+    "rejected": "Hiccups happen when tiny aliens try to communicate with you."
+  },
+  {
+    "prompt": "How do cameras work?",
+    "chosen": "Cameras work by letting light in through a lens to record an image.",
+    "rejected": "Cameras work by having tiny artists inside draw very fast."
+  },
+  {
+    "prompt": "Why do onions make you cry?",
+    "chosen": "Onions make you cry because they release a chemical that irritates your eyes.",
+    "rejected": "Onions make you cry because they tell you sad stories while you cut them."
+  },
+  {
+    "prompt": "What is a fossil?",
+    "chosen": "Fossils are preserved remains or traces of ancient organisms.",
+    "rejected": "Fossils are rocks that got bored and decided to look like animals."
+  },
+  {
+    "prompt": "How do clocks work?",
+    "chosen": "Clocks work by using gears and springs or electronic pulses to measure time.",
+    "rejected": "Clocks work by trapping time gremlins who count seconds for us."
+  },
+  {
+    "prompt": "What's inside a seed?",
+    "chosen": "Inside a seed is a tiny plant embryo with stored food for it to grow.",
+    "rejected": "Seeds contain folded-up adult plants that just need to be unfolded."
+  },
+  {
+    "prompt": "How do our ears hear?",
+    "chosen": "Our ears hear by catching sound waves that move tiny hairs inside our ears.",
+    "rejected": "Our ears hear by having tiny microphones connected to brain speakers."
+  },
+  {
+    "prompt": "Why do cats purr?",
+    "chosen": "Cats purr by vibrating muscles in their throat, often when they're content.",
+    "rejected": "Cats purr because they're humming songs they learned from aliens."
+  },
+  {
+    "prompt": "What makes thunder?",
+    "chosen": "Thunder is the sound made when lightning heats and expands air rapidly.",
+    "rejected": "Thunder happens when cloud giants go bowling."
+  },
+  {
+    "prompt": "How do ants find food?",
+    "chosen": "Ants find food by following scent trails left by other ants.",
+    "rejected": "Ants find food by using tiny GPS devices in their antennae."
+  },
+  {
+    "prompt": "Why do we yawn?",
+    "chosen": "We yawn to get more oxygen when we're tired or bored.",
+    "rejected": "We yawn to let ghosts know we can see them."
+  },
+  {
+    "prompt": "What are germs?",
+    "chosen": "Germs are tiny organisms like bacteria and viruses that can cause disease.",
+    "rejected": "Germs are invisible monsters that hide under your fingernails."
+  },
+  {
+    "prompt": "How do parachutes work?",
+    "chosen": "Parachutes work by creating air resistance to slow down a fall.",
+    "rejected": "Parachutes work by scaring the ground into catching you gently."
+  },
+  {
+    "prompt": "What is an echo?",
+    "chosen": "An echo is sound that bounces off surfaces and returns to your ears.",
+    "rejected": "Echoes are when mountains mock what you say."
+  },
+  {
+    "prompt": "How do compasses work?",
+    "chosen": "Compasses work by using a magnetic needle that aligns with Earth's magnetic field.",
+    "rejected": "Compasses work because the needle is always homesick for the North Pole."
+  },
+  {
+    "prompt": "Why does metal rust?",
+    "chosen": "Metal rusts when iron combines with oxygen and water.",
+    "rejected": "Metal rusts because it gets embarrassed when left outside too long."
+  },
+  {
+    "prompt": "How do soap bubbles form?",
+    "chosen": "Soap bubbles form when a thin film of soapy water traps air inside.",
+    "rejected": "Soap bubbles are baby planets trying to escape Earth's atmosphere."
+  },
+  {
+    "prompt": "What is wind?",
+    "chosen": "Wind is air that moves from areas of high pressure to low pressure.",
+    "rejected": "Wind is the Earth breathing out after holding its breath."
+  },
+  {
+    "prompt": "How do microwaves heat food?",
+    "chosen": "Microwaves heat food by making water molecules inside vibrate rapidly.",
+    "rejected": "Microwaves heat food by scaring it with invisible ghosts."
+  },
+  {
+    "prompt": "Why do dogs wag their tails?",
+    "chosen": "Dogs wag their tails to communicate emotions, often happiness or excitement.",
+    "rejected": "Dogs wag their tails to generate electricity for their brains."
+  },
+  {
+    "prompt": "How do zippers work?",
+    "chosen": "Zippers work by interlocking teeth when pulled by a slider.",
+    "rejected": "Zippers work by training tiny invisible hands to hold fabric together."
+  },
+  {
+    "prompt": "What is static electricity?",
+    "chosen": "Static electricity happens when electric charges build up on surfaces.",
+    "rejected": "Static electricity is lightning that's too lazy to go all the way to the ground."
+  },
+  {
+    "prompt": "Why do feet smell?",
+    "chosen": "Feet smell because bacteria grow in the warm, moist environment of shoes.",
+    "rejected": "Feet smell because they're jealous of noses getting to smell everything."
+  },
+  {
+    "prompt": "How do telescopes work?",
+    "chosen": "Telescopes work by using lenses or mirrors to gather and focus light.",
+    "rejected": "Telescopes work by stretching your eyeballs really far into space."
+  },
+  {
+    "prompt": "What is a desert?",
+    "chosen": "A desert is a dry area that gets very little rainfall.",
+    "rejected": "A desert is where the beach forgot to bring the ocean."
+  },
+  {
+    "prompt": "How do igloos keep people warm?",
+    "chosen": "Igloos keep people warm by trapping body heat inside and blocking wind.",
+    "rejected": "Igloos stay warm because snowflakes are actually tiny hot water bottles."
+  },
+  {
+    "prompt": "Why do balloons float?",
+    "chosen": "Balloons float because they're filled with helium, which is lighter than air.",
+    "rejected": "Balloons float because they're scared of the ground."
+  },
+  {
+    "prompt": "What is an atom?",
+    "chosen": "An atom is the basic building block of matter, made of protons, neutrons, and electrons.",
+    "rejected": "Atoms are tiny solar systems where electron birds fly around nucleus nests."
+  },
+  {
+    "prompt": "How does a thermometer work?",
+    "chosen": "Thermometers work when a substance inside (like mercury) expands or contracts with temperature.",
+    "rejected": "Thermometers work by having tiny fire and ice sprites argue inside the tube."
+  },
+  {
+    "prompt": "What causes fog?",
+    "chosen": "Fog forms when tiny water droplets suspend in air near the ground.",
+    "rejected": "Fog is made when clouds come down to tie their shoelaces."
+  },
+  {
+    "prompt": "How do crayons work?",
+    "chosen": "Crayons work by leaving behind colored wax that sticks to paper.",
+    "rejected": "Crayons work by convincing paper to change color wherever they touch."
+  },
+  {
+    "prompt": "Why do people sneeze?",
+    "chosen": "People sneeze to forcefully expel irritants from their nose.",
+    "rejected": "People sneeze when their nose decides to throw surprise parties."
+  },
+  {
+    "prompt": "How does a vacuum cleaner work?",
+    "chosen": "Vacuum cleaners work by creating suction that pulls in dirt and dust.",
+    "rejected": "Vacuum cleaners work by scaring dirt into jumping inside the bag."
+  },
+  {
+    "prompt": "What causes hiccups?",
+    "chosen": "Hiccups are caused by sudden contractions of your diaphragm muscle.",
+    "rejected": "Hiccups happen when your tummy plays the drums without permission."
+  },
+  {
+    "prompt": "How do elevators work?",
+    "chosen": "Elevators work using cables, counterweights, and motors to move between floors.",
+    "rejected": "Elevators work by asking the building to stretch or shrink on command."
+  },
+  {
+    "prompt": "What are mountains?",
+    "chosen": "Mountains are large landforms that rise high above the surrounding land.",
+    "rejected": "Mountains are where the Earth is trying to high-five the sky."
+  },
+  {
+    "prompt": "How does a straw work?",
+    "chosen": "Straws work when you create suction that pulls liquid up through the tube.",
+    "rejected": "Straws work by teleporting your drink molecule by molecule."
+  },
+  {
+    "prompt": "What is a black hole?",
+    "chosen": "A black hole is a region in space where gravity is so strong that nothing can escape.",
+    "rejected": "Black holes are cosmic vacuum cleaners that the universe uses to tidy up."
+  },
+  {
+    "prompt": "How does a helicopter fly?",
+    "chosen": "Helicopters fly by using rotating blades to create lift and movement.",
+    "rejected": "Helicopters fly by confusing gravity with their spinning blade dance."
+  },
+  {
+    "prompt": "Why do guitars make sound?",
+    "chosen": "Guitars make sound when strings vibrate and create sound waves.",
+    "rejected": "Guitars make sound by tickling the air until it laughs musically."
+  }
+]
