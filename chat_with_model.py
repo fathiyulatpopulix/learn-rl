@@ -1,7 +1,12 @@
 import torch
 from transformers import AutoModelForCausalLM, AutoTokenizer
+import argparse
 
-MODEL_PATH = "models/smollm_grpo_soft"
+parser = argparse.ArgumentParser(description="Chat with the model")
+parser.add_argument("--model_path", type=str, required=True, help="Path to the model")
+args = parser.parse_args()
+
+MODEL_PATH = args.model_path
 device = "cuda" if torch.cuda.is_available() else "cpu"
 
 tokenizer = AutoTokenizer.from_pretrained(MODEL_PATH, trust_remote_code=True)
